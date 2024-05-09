@@ -97,7 +97,7 @@ And later make the executable file.
 
 1. Change the permissions of the script `make_assemble.sh`
 
-``` bash
+``` shell
 chmod +x make_assemble.sh
 ```
 
